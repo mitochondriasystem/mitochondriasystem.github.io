@@ -716,6 +716,11 @@ a {
   color: #ffffff;
   text-align: left;
 }
+.cid-snuGF0DKwY .mbr-text,
+.cid-snuGF0DKwY .mbr-section-btn {
+  color: #ffffff;
+  text-align: left;
+}
 .cid-snJFzUbvQe {
   padding-top: 5rem;
   padding-bottom: 0rem;
@@ -2414,9 +2419,12 @@ a {
   }
 }
 .cid-snxhtGVt9M {
-  padding-top: 6rem;
+  padding-top: 0rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
+}
+.cid-snxhtGVt9M .text-wrapper {
+  padding: 1rem;
 }
 @media (max-width: 991px) {
   .cid-snxhtGVt9M .image-wrapper {
@@ -2434,10 +2442,16 @@ a {
 .cid-snxhtGVt9M .mbr-section-title {
   color: #232323;
 }
+.cid-snxhtGVt9M .mbr-text {
+  color: #232323;
+}
 .cid-snxhugAwXv {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 7rem;
   background-color: #ffffff;
+}
+.cid-snxhugAwXv .text-wrapper {
+  padding: 1rem;
 }
 @media (max-width: 991px) {
   .cid-snxhugAwXv .image-wrapper {
@@ -2458,10 +2472,16 @@ a {
 .cid-snxhugAwXv .mbr-section-title {
   color: #232323;
 }
+.cid-snxhugAwXv .mbr-text {
+  color: #232323;
+}
 .cid-snxhuOJq7o {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 7rem;
   background-color: #ffffff;
+}
+.cid-snxhuOJq7o .text-wrapper {
+  padding: 1rem;
 }
 @media (max-width: 991px) {
   .cid-snxhuOJq7o .image-wrapper {
@@ -2479,10 +2499,16 @@ a {
 .cid-snxhuOJq7o .mbr-section-title {
   color: #232323;
 }
+.cid-snxhuOJq7o .mbr-text {
+  color: #232323;
+}
 .cid-snxhYAHeUJ {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 7rem;
   background-color: #ffffff;
+}
+.cid-snxhYAHeUJ .text-wrapper {
+  padding: 1rem;
 }
 @media (max-width: 991px) {
   .cid-snxhYAHeUJ .image-wrapper {
@@ -2503,10 +2529,16 @@ a {
 .cid-snxhYAHeUJ .mbr-section-title {
   color: #232323;
 }
+.cid-snxhYAHeUJ .mbr-text {
+  color: #232323;
+}
 .cid-snxACurqar {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 7rem;
   background-color: #ffffff;
+}
+.cid-snxACurqar .text-wrapper {
+  padding: 1rem;
 }
 @media (max-width: 991px) {
   .cid-snxACurqar .image-wrapper {
@@ -2524,10 +2556,16 @@ a {
 .cid-snxACurqar .mbr-section-title {
   color: #232323;
 }
+.cid-snxACurqar .mbr-text {
+  color: #232323;
+}
 .cid-snxACZapKM {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 0rem;
+  padding-bottom: 7rem;
   background-color: #ffffff;
+}
+.cid-snxACZapKM .text-wrapper {
+  padding: 1rem;
 }
 @media (max-width: 991px) {
   .cid-snxACZapKM .image-wrapper {
