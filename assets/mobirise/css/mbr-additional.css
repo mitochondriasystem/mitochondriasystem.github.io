@@ -1077,21 +1077,21 @@ a {
   }
 }
 .cid-snx2GBg3vd {
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #fafafa;
 }
 .cid-snx2GBg3vd .carousel {
+  height: 800px;
+}
+.cid-snx2GBg3vd .carousel img {
   width: 100%;
-}
-.cid-snx2GBg3vd .carousel-inner {
-  display: flex;
-  align-content: center;
-  align-items: center;
-}
-.cid-snx2GBg3vd .carousel-item img {
-  height: 100vh;
+  height: 100%;
   object-fit: cover;
+}
+.cid-snx2GBg3vd .carousel-item,
+.cid-snx2GBg3vd .carousel-inner {
+  height: 100%;
 }
 .cid-snx2GBg3vd .mbr-overlay {
   z-index: 1;
